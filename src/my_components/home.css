@@ -1,0 +1,11 @@
+.showcasediv{
+  height: 400px;
+}
+.showcasediv h3{
+  margin-bottom: 148px;
+  font-size: calc(1.5rem + 0.6vw);
+}
+.d-block{
+width: 100%important;
+height: 400px;
+}
