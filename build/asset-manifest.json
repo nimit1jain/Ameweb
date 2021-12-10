@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ameweb/static/css/main.79af659d.chunk.css",
+    "main.js": "/Ameweb/static/js/main.a9f04820.chunk.js",
+    "main.js.map": "/Ameweb/static/js/main.a9f04820.chunk.js.map",
+    "runtime-main.js": "/Ameweb/static/js/runtime-main.994b2b80.js",
+    "runtime-main.js.map": "/Ameweb/static/js/runtime-main.994b2b80.js.map",
+    "static/css/2.acf9cc11.chunk.css": "/Ameweb/static/css/2.acf9cc11.chunk.css",
+    "static/js/2.93bbc322.chunk.js": "/Ameweb/static/js/2.93bbc322.chunk.js",
+    "static/js/2.93bbc322.chunk.js.map": "/Ameweb/static/js/2.93bbc322.chunk.js.map",
+    "index.html": "/Ameweb/index.html",
+    "static/css/2.acf9cc11.chunk.css.map": "/Ameweb/static/css/2.acf9cc11.chunk.css.map",
+    "static/css/main.79af659d.chunk.css.map": "/Ameweb/static/css/main.79af659d.chunk.css.map",
+    "static/js/2.93bbc322.chunk.js.LICENSE.txt": "/Ameweb/static/js/2.93bbc322.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.994b2b80.js",
+    "static/css/2.acf9cc11.chunk.css",
+    "static/js/2.93bbc322.chunk.js",
+    "static/css/main.79af659d.chunk.css",
+    "static/js/main.a9f04820.chunk.js"
+  ]
+}
