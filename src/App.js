@@ -2,7 +2,7 @@ import React from 'react'
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
 // import { Component } from 'react';
-import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
+import { HashRouter as Router, Switch, Route} from "react-router-dom";
 import Navbarj from './my_components/Navbarj';
 import Home from './my_components/Home';
 import Contact from './my_components/Contact'
